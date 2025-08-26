@@ -1,6 +1,6 @@
 # Desafios Resolvidos em T-SQL  
 
-Este repositório reúne uma coleção de **25 desafios práticos em T-SQL**, desenvolvidos com o objetivo de **absorver, fixar e demonstrar conhecimentos em SQL Server**.  
+Este repositório reúne uma coleção de  desafios práticos em T-SQL, desenvolvidos com o objetivo de **absorver, fixar e demonstrar conhecimentos em SQL Server**.  
 Os exercícios simulam **cenários reais**, com foco em lógica, modelagem de dados e rotinas de banco de dados aplicáveis em ambientes profissionais.  
 
 ---
